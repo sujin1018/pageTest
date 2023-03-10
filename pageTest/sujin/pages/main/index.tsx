@@ -3,7 +3,7 @@ import React from "react";
 const PageInfo = () => {
     return (
         <>
-        <div>pageinfo</div>
+        <div>main page</div>
         </>
     )
 }
